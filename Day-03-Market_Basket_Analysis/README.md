@@ -10,7 +10,8 @@ Today, we explore Market Basket Analysis (MBA) using SQL and Python. This techni
 ✅ Build Customer Segmentation & Product Affinity Groups
 ✅ Visualize the results using Network Graphs & Heatmaps in Python
 
-
+## **📜 SQL Query for Market Basket Analysis & Association Rule Mining**
+```sql
 WITH TransactionPairs AS (
     -- Step 1: Create Pairs of Items Purchased Together
     SELECT 
