@@ -1,14 +1,19 @@
-🛒 Day 3: Advanced Market Basket Analysis Using SQL & Python
-🚀 Overview
-💡 How do businesses analyze customer purchasing patterns and recommend products?
-Today, we explore Market Basket Analysis (MBA) using SQL and Python. This technique helps e-commerce, retail, and finance industries understand which products are frequently bought together and optimize recommendation systems, cross-selling, and inventory management.
+# 🛒 Day 3: Advanced Market Basket Analysis Using SQL & Python
 
-🔹 Key Objectives
-✅ Use SQL Window Functions & CTEs to analyze transaction patterns
-✅ Implement Apriori Algorithm in SQL for Association Rule Mining
-✅ Extract Support, Confidence, and Lift metrics
-✅ Build Customer Segmentation & Product Affinity Groups
-✅ Visualize the results using Network Graphs & Heatmaps in Python
+## 🚀 Overview  
+💡 **How do businesses analyze customer purchasing patterns and recommend products?**  
+Today, we explore **Market Basket Analysis (MBA)** using SQL and Python. This technique helps **e-commerce, retail, and finance industries** understand **which products are frequently bought together** and optimize **recommendation systems, cross-selling, and inventory management.**  
+
+---
+
+## 📌 **Key Objectives**  
+✅ **Use SQL Window Functions & CTEs** to analyze transaction patterns  
+✅ **Implement Apriori Algorithm in SQL** for Association Rule Mining  
+✅ **Extract Support, Confidence, and Lift metrics**  
+✅ **Build Customer Segmentation & Product Affinity Groups**  
+✅ **Visualize the results using Network Graphs & Heatmaps in Python**  
+
+---
 
 ## **📜 SQL Query for Market Basket Analysis & Association Rule Mining**
 ```sql
